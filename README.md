@@ -1,2 +1,2 @@
 # demo-app
-React app with the purposes of testing new packages.
+SolidJS app with the purposes of testing new node packages.
